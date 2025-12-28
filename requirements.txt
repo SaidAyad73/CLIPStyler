@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+lightning
+kornia
+streamlit
+Pillow
+numpy
+matplotlib
